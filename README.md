@@ -1,0 +1,2 @@
+pechatnoeizdanye-oop-
+=====================
